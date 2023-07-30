@@ -6,3 +6,7 @@ Features:
 - Load data from document and wikipedia, then store them to Chromadb.
 - Custom prompts for bot instruction and condensing the question.
 - Customizable parameters (temperature, search_type, max_token, etc.)
+
+Environment:
+- Linux Ubuntu 22.04.2 LTS
+- Python 3.10.6
