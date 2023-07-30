@@ -1,0 +1,7 @@
+langchain==0.0.247
+tiktoken==0.4.0
+PyMuPDF==1.22.5
+wikipedia==1.4.0
+unstructured==0.8.7
+openai==0.27.8
+chromadb==0.4.3
